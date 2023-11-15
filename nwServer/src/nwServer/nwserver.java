@@ -80,6 +80,7 @@ public class nwserver {
         }
     }
 
+    //연산 시작
     private static String calculate(String operation, int operand1, int operand2) {
         switch (operation) {
             case "ADD":
